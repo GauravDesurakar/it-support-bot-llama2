@@ -18,4 +18,4 @@
 - LLM: https://huggingface.co/TheBloke
 
 # Screenshot
-![alt text](C:\Users\P1350143\Desktop\PROJECTS\LLM\it-support-bot-llama2\it-support-bot.png)
+![alt text](https://github.com/GauravDesurakar/it-support-bot-llama2/blob/main/it-support-bot.PNG)
